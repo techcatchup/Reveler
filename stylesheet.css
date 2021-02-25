@@ -1,0 +1,49 @@
+
+body {
+    background-image: url(coffeebg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#navbar ul{
+    background-color: black;
+    border-radius: 5px;
+    list-style-type: none;
+    text-align: right;
+    padding: 6px;
+} 
+#navbar ul li{
+    display: inline;
+}
+#navbar ul li a{
+    text-decoration: none;
+    font-family: cursive;
+    background-color:gray;
+    color: honeydew;
+    border-radius: 2px;
+    padding: .2em 1em;
+}
+h1 {
+    font-size: 220%;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 190%;
+    padding-left: 80px;
+}
+
+p {
+    font-size: 150%;
+    padding-left:30px;
+}
+.main{
+    background-color:black;
+    margin: 30px;
+    padding: 20px;
+    font-size:  110%; 
+    width: 500px;
+    border: black;
+    border-radius: 5px;
+    color: honeydew;
+}
